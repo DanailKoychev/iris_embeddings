@@ -1,0 +1,5 @@
+numpy==1.18.3
+torch==1.4.0
+jupyter==1.0.0
+optunity==1.1.1
+matplotlib==3.2.1
